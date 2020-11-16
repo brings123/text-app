@@ -11,3 +11,4 @@ CRUD Text api for legal doctrine coding challenge
 
 I deleted the .env from gitignore just so you could test with my config variables. 
 
+I used ES5 instead of ES6 because most testing frameworks have issues with ES6 modules (import / exports)
